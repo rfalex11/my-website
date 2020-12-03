@@ -6,6 +6,4 @@ Updates made on master on Github before rebase
 
 ## Repository Purpose
 
-This file is a readme file.
-This update is here to break stuff up FOR REALZ
-Cuz it is edited locally
+This file is a readme file.  This update is here to break stuff up
