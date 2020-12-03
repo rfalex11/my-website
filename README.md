@@ -2,7 +2,4 @@
 
 This is a regular website
 
-
-Updating on the `update-readme` branch
-
-Updated locally, AND now remotely
+Updates made on master on Github before rebase
